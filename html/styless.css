@@ -1,0 +1,269 @@
+body{
+    background-color: #36454F;
+    max-width: 100%;
+    min-height: 100%;
+    font-style: OpenSans;
+}
+
+.teat{
+  position: relative;
+  font-size: 200px;
+  text-align: center;
+  top: 500px;
+}   
+
+.input{
+  position: relative;
+  text-align: center;
+}
+
+.input1{
+  width: 730px;
+  height: 170px;
+  font-size: 70px;
+  border-radius: 10px;
+  background-color: #FFF5EE;
+  border-color: gray;
+}
+/*First row*/
+.first-row{
+  position: relative;
+  text-align: center;
+}
+
+.button2{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 5px 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+  border-color: #B6D0E2;
+  background-color: #B6D0E2;
+}
+
+.button3{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 5px 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+  border-color: #B6D0E2;
+  background-color: #B6D0E2;
+}
+
+.button4{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 5px 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+  border-color: #B6D0E2;
+  background-color: #B6D0E2;
+}
+
+.button5{
+  position: relative;
+  text-align: center;
+  width: 127px; 
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+  border-color: #CBC3E3;
+  background-color: #CBC3E3;
+}
+
+/*Second row*/
+
+.second-row{
+  position: relative;
+  text-align: center;
+}
+
+.button6{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 1px 1px 5px;
+  font-size: 30px;
+  border-radius: 1000px;
+}
+
+.button7{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+}
+
+.button8{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+}
+
+.button9{
+  position: relative;
+  text-align: center;
+  width: 127px; 
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+  border-color: #CBC3E3;
+  background-color: #CBC3E3;
+}
+
+/*Third row*/
+
+.third-row{
+  position: relative;
+  text-align: center;
+}
+
+.button10{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+}
+
+.button11{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+}
+
+.button12{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+}
+
+.button13{
+  position: relative;
+  text-align: center;
+  width: 127px;
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+  border-color: #CBC3E3;
+  background-color: #CBC3E3;
+}
+
+/*Fourth row*/
+
+.fourth-row{
+  position: relative;
+  text-align: center;
+}
+
+.button14{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 5px 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+}
+
+.button15{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+}
+
+.button16{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+}
+
+.button17{
+  position: relative;
+  text-align: center;
+  width: 127px;
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+  border-color: #CBC3E3;
+  background-color: #CBC3E3;
+}
+
+/*Fifth row*/
+
+.fifth-row{
+  position: relative;
+  text-align: center;
+}
+
+.button18{
+  position: relative;
+  text-align: center;
+  width: 406px;
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+  background-color: #C1E1C1;
+  border-color: #C1E1C1;
+
+}
+
+.button19{
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+}
+
+.button20{
+  position: relative;
+  text-align: center;
+  width: 127px;
+  height: 127px;
+  margin: 1px;
+  font-size: 30px;
+  border-radius: 1000px;
+  border-color: #CBC3E3;
+  background-color: #CBC3E3;
+}
